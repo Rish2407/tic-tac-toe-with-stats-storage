@@ -1,5 +1,5 @@
 # tic-tac-toe-with-stats-storage
-just a little project using both python and sql and some frontend for a tic tac toe game that tracks stats
+just a little project using both python and sql and some frontend for a tic tac toe game that tracks stats \n
 • The game is played on a grid (3x3, 4x4, or 5x5 depending on your choice).
 • Two players take turns marking empty squares:
 • Player 1 uses X
