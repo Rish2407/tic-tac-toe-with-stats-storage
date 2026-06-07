@@ -12,7 +12,7 @@ just a little project using both python and sql and some frontend for a tic tac 
 
 • Players alternate turns until one player wins or the board is full.
 
-• A player wins if they place their symbols in a straight line:Horizontally, Vertically, Diagonally
+• A player wins if they place their symbols in a straight line: Horizontally, Vertically, Diagonally
 
 
 If all squares are filled and no player has a winning line, the game ends in a draw.
